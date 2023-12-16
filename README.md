@@ -2,7 +2,7 @@
 
 - I am currently 14 and this is my github account for my future portflio 📝
 - I am currently intrested graphical programming 🎥
-- I am working on a wolfenstein style renderer 🌱
+- I am working on a 3d renderer 🌱
 - Reach me at [diaschithira21@gmail.com](mailto:diaschitira21@gmail.com) 📫
 
 <!---
